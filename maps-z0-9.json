@@ -3,7 +3,7 @@
   "parts": [
     {
       "name": "maps-z0-9.zip",
-      "url": "https://github.com/YOUR_GITHUB_NAME/YOUR_DATA_REPO/releases/download/YOUR_RELEASE_TAG/maps-z0-9.zip",
+      "url": "https://github.com/MitZander/TMIMaps/releases/tag/packs-2026-06-07/maps-z0-9.zip",
       "sha256": "0c777e4ed226a61e41b9b2325f381871316b6c82f4964a95549e87bce1d0f4fc"
     }
   ]
