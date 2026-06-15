@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "kind": "git-runtime",
+  "id": "tmi-git-runtime-windows-x64",
+  "name": "TMI Git Runtime for Windows x64",
+  "version": "2.54.0.windows.1",
+  "platform": "windows",
+  "arch": "x64",
+  "source": {
+    "name": "Git for Windows MinGit",
+    "release": "v2.54.0.windows.1",
+    "asset": "MinGit-2.54.0-64-bit.zip",
+    "url": "https://github.com/git-for-windows/git/releases/tag/v2.54.0.windows.1"
+  },
+  "archive": {
+    "name": "tmi-git-runtime-windows-x64-2.54.0.windows.1.zip",
+    "url": "https://github.com/YOUR_GITHUB_NAME/YOUR_DATA_REPO/releases/download/YOUR_RELEASE_TAG/tmi-git-runtime-windows-x64-2.54.0.windows.1.zip",
+    "sha256": "51b4069f899685d3cd5c2d4304bb7c37f9319f060aabde68fb7658e002eb2d57",
+    "size": 41928820
+  },
+  "extractRoot": ".",
+  "requiredPaths": [
+    "cmd/git.exe",
+    "mingw64/bin/git.exe",
+    "mingw64/bin/git-remote-https.exe",
+    "mingw64/bin/libcurl-4.dll",
+    "mingw64/libexec/git-core",
+    "mingw64/etc/ssl/certs/ca-bundle.crt",
+    "usr/bin/sh.exe",
+    "LICENSE.txt"
+  ]
+}
