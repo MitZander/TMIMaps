@@ -14,7 +14,7 @@
   },
   "archive": {
     "name": "tmi-git-runtime-windows-x64-2.54.0.windows.1.zip",
-    "url": "https://github.com/YOUR_GITHUB_NAME/YOUR_DATA_REPO/releases/download/YOUR_RELEASE_TAG/tmi-git-runtime-windows-x64-2.54.0.windows.1.zip",
+    "url": "https://github.com/MitZander/TMIMaps/releases/download/packs-2026-06-07/tmi-git-runtime-windows-x64-2.54.0.windows.1.zip",
     "sha256": "51b4069f899685d3cd5c2d4304bb7c37f9319f060aabde68fb7658e002eb2d57",
     "size": 41928820
   },
